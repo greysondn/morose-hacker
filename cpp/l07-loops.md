@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C++ Tutorial
+title: C++ 07 - Loops
 permalink: /cpp/l07
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C++ 06: Random Numbers
+title: C++ 06 - Random Numbers
 permalink: /cpp/l06
 ---
 
