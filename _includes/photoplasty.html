@@ -1,0 +1,20 @@
+{%- comment -%}
+        it gets really tiring copying the same bit of HTML for a snarky
+        image over and over. How about a short embed for it?
+    
+    args:
+       img  - path to image from site.url forwards
+       caption - text to put into the caption.
+    
+    usage:
+        hold on this must be #TODO
+{%- endcomment -%}
+{%- comment -%}
+
+{%- endcomment -%}
+<div class="card mx-auto" style="width:50em;">
+    <img class="card-img-top" src="{{ site.url }}{{ include.img }}" style="width:100%; align:center;">
+    <div class="card-body">
+        <p class="card-text">{{ include.caption }}</p>
+    </div>
+</div>

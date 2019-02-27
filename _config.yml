@@ -1,0 +1,11 @@
+# Site settings
+title: Morose Hacker's Guide to Beginner Programming
+email: greysondn@gmail.com
+description: "Blast, I hate you all"
+baseurl: ""
+url: "https://greysondn.github.io/morose-hacker"
+timezone: America/New_York
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
