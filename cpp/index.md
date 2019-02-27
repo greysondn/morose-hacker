@@ -19,7 +19,7 @@ The Basics
 ~~[03: Types and Maths](#muismu)~~  
 ~~[04: If, Else, and Truth Tables](#muismu)~~  
 ~~[05: Keyboard Input](#muismu)~~  
-~~[06: Random Numbers](#muismu)~~  
+[06: Random Numbers]({{ site.url }}/cpp/l06)  
 [07: Loops]({{ site.url }}/cpp/l07)  
 ~~[08: Arrays](#muismu)~~  
 ~~[09: Functions](#muismu)~~  
@@ -28,6 +28,7 @@ The Basics
 ~~[11: Headers and Libraries](#muismu)~~  
 ~~[12: Scope, Reference, and Value](#muismu)~~  
 ~~[13: Working with Files](#muismu)~~  
+~~[14: JSON](#muismu)~~
 
 Object Orientation  
 ~~[13: Struct](#muismu)~~  
