@@ -22,6 +22,7 @@ Second, you can read entire lines of input from the user at once. This is part o
 #include <iostream>
 using std::cin;
 using std::cout;
+using std::endl;
 using std::getline;
 
 #include <string>
@@ -29,12 +30,12 @@ using std::string;
 
 int main ()
 {
-  string name;
+    string name;
 
-  cout << "Please, enter your full name." << endl;
-  cout << "> ";
-  getline(cin,name);
-  cout << "Hello, " << name << "!" << endl;
+    cout << "Please, enter your full name." << endl;
+    cout << "> ";
+    getline(cin,name);
+    cout << "Hello, " << name << "!" << endl;
 
   return 0;
 }
