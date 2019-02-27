@@ -20,7 +20,7 @@ The Basics
 ~~[04: If, Else, and Truth Tables](#muismu)~~  
 ~~[05: Keyboard Input](#muismu)~~  
 ~~[06: Random Numbers](#muismu)~~  
-~~[07: Loops](#muismu)~~  
+[07: Loops]({{ site.url }}/cpp/l07)  
 ~~[08: Arrays](#muismu)~~  
 ~~[09: Functions](#muismu)~~  
 ~~[10: Standard Doc Comments](#muismu)~~  
@@ -70,6 +70,15 @@ Problems
 ~~[10: Librarian's Salvage](#muismu)~~  
 ~~[11: Mancala](#muismu)~~  
 ~~[12: A Game of Cards](#muismu)~~  
-~~[13: You Find Yourself In A Room](#muismu)~~  
 ~~25-ish: Cocktail Sort~~  
 ~~28-ish: Solving a Maze~~
+
+Problems I should try to fit in
+-------------------------------
+Checkers
+A simple AI problem
+Chess
+Othello
+Battleship
+Boggle
+Hunt the Wumpus
