@@ -9,3 +9,6 @@ timezone: America/New_York
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+exclude:
+- "res/cpp/*/raw/"

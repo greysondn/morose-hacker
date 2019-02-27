@@ -26,6 +26,8 @@ while(condition)
 }
 {% endhighlight %}
 
+{% include photoplasty.html img="/res/cpp/l07/uml-while.png" caption="UML flowchart of a while loop" %}
+
 When running, it will do the following:
 
 * Check to make sure `true == condition`
@@ -48,6 +50,8 @@ do
     // until condition is false
 } while(condition);
 {% endhighlight %}
+
+{% include photoplasty.html img="/res/cpp/l07/uml-dowhile.png" caption="UML flowchart of a do...while loop" %}
 
 When running it will do the following:
 
@@ -72,6 +76,8 @@ for (initializer, condition, step)
 }
 {% endhighlight %}
 
+{% include photoplasty.html img="/res/cpp/l07/uml-for.png" caption="UML flowchart of a for loop" %}
+
 When running, it does the following.
 
 * perform *initializer*
@@ -90,7 +96,7 @@ It's important to notice that *for loops, like while loops, may never run the co
 The creator of C++ has a quote he tries to drill into people's heads. It's this:
 
 {% include quote_head.html source="Bjarne Strousop" %}
-Two or more, use a *for*!
+Two or more, use a for!
 {% include quote_tail.html %}
 
 What he means is this: Due to the extreme optimization of *for* loops in the C++ compiler (and the clearer syntax for such tasks), if you - without a doubt - can give a countable number of iterations of your loop and it is `>=` 2... you need to be using a *for* loop.
@@ -220,7 +226,7 @@ There is also a decrement function. It does about what you'd expect.
 The most common place to see both of these operators is in a *for* loop's *step*.
 
 {% include infobox_tail.html %}
-
+<br />
 {% include infobox_head.html type="caution" title="Don't Abuse For Loops, Signed Everyone Competent" %}
 
 Technically, you could just rewrite a *while* as a *for* loop.
@@ -230,7 +236,6 @@ Technically, you could just rewrite a *while* as a *for* loop.
     {
         // while body
     }
-}
 {% endhighlight %}
 
 You could probably get by with some arbitrary code instead of what you're supposed to do.
@@ -263,4 +268,3 @@ You are now ready to do Problem #06: High or Low.
 <a name="l07-todo"></a>Document TODO
 ------------------------------------
 * Write and link problem #06.
-* Create UML diagrams of loop flow
