@@ -12,7 +12,7 @@ ohg lbh pna'g fgbc hf nyy... nsgre nyy, jr'er nyy nyvxr."
 
 This problem assumes you understand up to Lesson 8 (Arrays) of the C++ series.
 
-Create a program that will take a lowercase string and output the same string again as lowercase letters. There are two pieces of data that may help you do this:
+Create a program that will take a lowercase string and output the same string again as lowercase letters encoded using the ROT13 cipher (or any other valid substitution cipher). There are two pieces of data that may help you do this:
 
 First, `string` has a property, `length`. which tells you how many bytes make up the string. You can read it by calling `stringIdentifier.length()` in your code. (If you're in the recommended place in the lessons, we'll cover this strange dot notation later on.)
 
