@@ -21,7 +21,7 @@ The Basics
 ~~[05: Keyboard Input](#muismu)~~  
 [06: Random Numbers]({{ site.url }}/cpp/l06)  
 [07: Loops]({{ site.url }}/cpp/l07)  
-~~[08: Arrays](#muismu)~~  
+[08: Arrays]({{ site.url }}/cpp/l08)  
 ~~[09: Functions](#muismu)~~  
 ~~[10: Standard Doc Comments](#muismu)~~  
 ~~[11: Recursion](#muismu)~~  
@@ -65,7 +65,7 @@ Problems
 ~~[04: Full Circle](#muismu)~~  
 ~~[05: COPPA Check](#muismu)~~  
 ~~[06: High or Low](#muismu)~~  
-~~[07: Cipher](#muismu)~~  
+[07: Cipher]({{ site.url }}/cpp/p07)  
 ~~[08: Tic Tac Toe](#muismu)~~  
 ~~[09: Ackerman, the Devil](#muismu)~~  
 ~~[10: Librarian's Salvage](#muismu)~~  
