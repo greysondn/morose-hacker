@@ -95,7 +95,7 @@ int main()
 
     // This is just a silly song. The words don't mean a thing.
     cout << songChars[1] << " " << songChars[0] << " - bay!" << endl;
-    cout << songChars[1] << " " << songChars[4] << " - be! << endl;
+    cout << songChars[1] << " " << songChars[4] << " - be!" << endl;
 
     return 0;
 }

@@ -69,7 +69,7 @@ You may be looking at this thinking I've only swapped things around. That's *mos
 A *for* loop takes the form
 
 {% highlight cpp linenos %}
-for (initializer, condition, step)
+for (initializer; condition; step)
 {
     // code to keep repeating
     // until condition is false
