@@ -4,7 +4,7 @@ title: C++ 08 - Arrays
 permalink: /cpp/l08
 ---
 
-I've got a love bunch of data points, doodle-de-doo, there they are a standing in a row...
+I've got a lovely bunch of data points, doodle-de-doo, there they are a standing in a row...
 
 <a name="l08-arrays"></a>Lesson 08:Arrays
 =========================================
