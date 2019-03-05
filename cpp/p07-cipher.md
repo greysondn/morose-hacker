@@ -16,7 +16,7 @@ Create a program that will take a lowercase string and output the same string ag
 
 First, `string` has a property, `length`. which tells you how many bytes make up the string. You can read it by calling `stringIdentifier.length()` in your code. (If you're in the recommended place in the lessons, we'll cover this strange dot notation later on.)
 
-Second, you can read entire lines of input from the user at once. This is part of `iostream`. It's called, unsurprisingly, getline.
+Second, you can read entire lines of input from the user at once. This is part of `string`. It's called, unsurprisingly, getline.
 
 {% highlight cpp linenos %}
 #include <iostream>

@@ -22,13 +22,12 @@ The Basics
 [06: Random Numbers]({{ site.url }}/cpp/l06)  
 [07: Loops]({{ site.url }}/cpp/l07)  
 [08: Arrays]({{ site.url }}/cpp/l08)  
-~~[09: Functions](#muismu)~~  
-~~[10: Standard Doc Comments](#muismu)~~  
+[09: Functions]({{ site.url }}/cpp/l09)  
+[10: Standard Doc Comments]({{ site.url }}/cpp/l10)  
 ~~[11: Recursion](#muismu)~~  
 ~~[11: Headers and Libraries](#muismu)~~  
 ~~[12: Scope, Reference, and Value](#muismu)~~  
-~~[13: Working with Files](#muismu)~~  
-~~[14: JSON](#muismu)~~
+~~[13: Working with Files](#muismu)~~
 
 Object Orientation  
 ~~[13: Struct](#muismu)~~  
@@ -36,6 +35,7 @@ Object Orientation
 ~~[15: Operator Overloading](#muismu)~~  
 ~~[16: Inheritance](#muismu)~~  
 ~~[17: Polymorphism](#muismu)~~
+~~[18: C++ Standard Library](#muismu)~~
 
 Data Structures  
 ~~[18: Pointers](#muismu)~~  
@@ -44,7 +44,6 @@ Data Structures
 ~~[21: Queue](#muismu)~~  
 ~~[22: Deque](#muismu)~~  
 ~~[23: Map](#muismu)~~  
-~~[24: C++ Standard Library](#muismu)~~
 
 Algorithms (Or "the section it's clear the writer disliked")  
 ~~[25: Bubble Sort](#muismu)~~  
@@ -59,27 +58,29 @@ Goodbye
 
 Problems
 --------
-~~[01: Goodbye, World!](#muismu)~~  
-~~[02: Non-interactive Area of a Square](#muismu)~~  
-~~[03: Welcome Back, User!](#muismu)~~  
-~~[04: Full Circle](#muismu)~~  
-~~[05: COPPA Check](#muismu)~~  
-~~[06: High or Low](#muismu)~~  
 [07: Cipher]({{ site.url }}/cpp/p07)  
-~~[08: Tic Tac Toe](#muismu)~~  
+[08: Hangman]({{ site.url }}/cpp/p08)  
 ~~[09: Ackerman, the Devil](#muismu)~~  
 ~~[10: Librarian's Salvage](#muismu)~~  
 ~~[11: Mancala](#muismu)~~  
-~~[12: A Game of Cards](#muismu)~~  
+~~[12: A Game of Cards](#muismu)~~
+
+~~1-ish: Goodbye, World!~~  
+~~2-ish: Area of a Square~~  
+~~3-ish: Welcome Back, User!~~  
+~~4-ish: Full Circle~~  
+~~5-ish: COPPA Check~~  
+~~6-ish: High or Low~~  
+~~13-ish: Tic Tac Toe~~  
 ~~25-ish: Cocktail Sort~~  
-~~28-ish: Solving a Maze~~
+~~28-ish: Solving a Maze~~  
 
 Problems I should try to fit in
 -------------------------------
-Checkers
-A simple AI problem
-Chess
-Othello
-Battleship
-Boggle
+Checkers  
+A simple AI problem  
+Chess  
+Othello  
+Battleship  
+Boggle  
 Hunt the Wumpus
