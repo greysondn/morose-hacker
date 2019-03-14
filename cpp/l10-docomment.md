@@ -44,7 +44,7 @@ Later versions of these lesson plans will include this in the earlier part, when
 <a name="l10-syntax"></a>Basic Syntax
 =====================================
 
-The reason I didn't introduce *block comments* up to this point - despite the fact you may have seen othe tutorials and what not cover them alongside - is that *block comments* are used to do documentation comments for most documentation parsers.
+The reason I didn't introduce *block comments* up to this point - despite the fact you may have seen other tutorials and what not cover them alongside - is that *block comments* are used to do documentation comments for most documentation parsers.
 
 A block comment starts with a forward slash and an asterisk - `/*` - and ends with an asterisk and a forward slash `*/`. Everything between the two is a comment.
 
