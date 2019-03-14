@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C++ Problem 08 - Hangman
-permalink: /cpp/p07
+permalink: /cpp/p08
 ---
 
 I'd like to hang with you and all, but this guy keeps guessing what's on my mind.
