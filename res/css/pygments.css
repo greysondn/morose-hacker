@@ -9,11 +9,13 @@
  *
  *
  * Changes:
- * .highlight .c1 - was unreadable to students, changed it on request.
+ * .highlight .c1  - was unreadable to students, changed it on request.
+ * .highlight .c   - was unreadable to students, changed on request.
+ * .highlight .cm  - was unreadable to students, changed on request
  */
 .highlight .hll { background-color: #222222 }
 .highlight  { background: #000000; color: #cccccc }
-.highlight .c { color: #000080 } /* Comment */
+.highlight .c { color: #80BF80 } /* Comment */
 .highlight .err { color: #cccccc; border: 1px solid #FF0000 } /* Error */
 .highlight .esc { color: #cccccc } /* Escape */
 .highlight .g { color: #cccccc } /* Generic */
@@ -24,7 +26,7 @@
 .highlight .x { color: #cccccc } /* Other */
 .highlight .p { color: #cccccc } /* Punctuation */
 .highlight .ch { color: #000080 } /* Comment.Hashbang */
-.highlight .cm { color: #000080 } /* Comment.Multiline */
+.highlight .cm { color: #80BF80 } /* Comment.Multiline */
 .highlight .cp { color: #000080 } /* Comment.Preproc */
 .highlight .cpf { color: #000080 } /* Comment.PreprocFile */
 .highlight .c1 { color: #6699cc } /* Comment.Single */
