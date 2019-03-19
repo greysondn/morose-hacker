@@ -17,13 +17,13 @@ set softtabstop=4
 set shiftwidth=4
 
 " make the tab key actually insert spaces instead of tab symbol
-expandtab
+set expandtab
 
 " make tab key jump to next indent point (instead of strictly four spaces)
-smarttab
+set smarttab
 
-" tell vim to paint the 80th column so we can see our intended line length.
-colorcolumn=80
+" tell vim to paint the 81st column so we can see our intended line length.
+set colorcolumn=81
 
 " ------------------------------------------------------------------------------
 " END ADDITIONS FROM P08CR0101 (MOROSE HACKER)
