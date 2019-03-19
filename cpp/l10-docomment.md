@@ -122,7 +122,7 @@ At the top of a file, `@file` provides the name of a file and forces doxygen to 
 
 Before a function, `@param` explains a parameter. It should be followed by the name of the paramter and then what it is. The type can be inferred by the documentation generator, so you don't have to worry about that.
 
-Before a fucntion, `@return` explains the function's return. It should be followed by a description of what it is. Once again, the type can be inferred by the documentation generator, so you don't have to worry about it.
+Before a function, `@return` explains the function's return. It should be followed by a description of what it is. Once again, the type can be inferred by the documentation generator, so you don't have to worry about it.
 
 With these last two together, remember that you don't need to repeat yourself, which may let you make the brief description even briefer.
 
@@ -167,7 +167,7 @@ You can now put this all together. Remember to put `@file name.cpp` in a doc com
 
 {% highlight cpp linenos %}
 /**
- * file doctest.cpp
+ * @file doctest.cpp
  */
 
 #include <iostream>
