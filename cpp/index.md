@@ -24,18 +24,18 @@ The Basics
 [08: Arrays]({{ site.url }}/cpp/l08)  
 [09: Functions]({{ site.url }}/cpp/l09)  
 [10: Standard Doc Comments]({{ site.url }}/cpp/l10)  
-~~[11: Recursion](#muismu)~~  
+[11: Recursion]({{ site.url }}/cpp/l11)  
 ~~[11: Headers and Libraries](#muismu)~~  
-~~[12: Scope, Reference, and Value](#muismu)~~  
+~~[12: Scope, Reference, and Mutability](#muismu)~~  
 ~~[13: Working with Files](#muismu)~~
 
 Object Orientation  
 ~~[13: Struct](#muismu)~~  
 ~~[14: Class](#muismu)~~  
+~~[18: C++ Standard Library](#muismu)~~  
 ~~[15: Operator Overloading](#muismu)~~  
 ~~[16: Inheritance](#muismu)~~  
 ~~[17: Polymorphism](#muismu)~~
-~~[18: C++ Standard Library](#muismu)~~
 
 Data Structures  
 ~~[18: Pointers](#muismu)~~  
@@ -60,7 +60,7 @@ Problems
 --------
 [07: Cipher]({{ site.url }}/cpp/p07)  
 [08: Hangman]({{ site.url }}/cpp/p08)  
-~~[09: Ackerman, the Devil](#muismu)~~  
+[09: Ackerman, the Devil]({{ site.url }}/cpp/p09)  
 ~~[10: Librarian's Salvage](#muismu)~~  
 ~~[11: Mancala](#muismu)~~  
 ~~[12: A Game of Cards](#muismu)~~
