@@ -57,7 +57,7 @@ Your C++ files end in `.cpp`. Headers should end in `.h` or `.hpp`. Let's have a
 namespace morose
 {
     // using goes inside the namespace, not outside of it
-	using std::cout;
+    using std::cout;
     using std::endl;
 
     // we can now define a function in the namespace if we'd like
