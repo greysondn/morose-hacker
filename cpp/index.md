@@ -25,7 +25,7 @@ The Basics
 [09: Functions]({{ site.url }}/cpp/l09)  
 [10: Standard Doc Comments]({{ site.url }}/cpp/l10)  
 [11: Recursion]({{ site.url }}/cpp/l11)  
-~~[11: Headers and Libraries](#muismu)~~  
+[12: Headers and Libraries]({{ site.url }}/cpp/l12)  
 ~~[12: Scope, Reference, and Mutability](#muismu)~~  
 ~~[13: Working with Files](#muismu)~~
 
