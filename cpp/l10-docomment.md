@@ -158,7 +158,7 @@ If you don't need latex output, you can set `GENERATE_LATEX` to `NO`.
 
 You may wish to set `OUTPUT_DIRECTORY` to some container directory. A perfectly normal value would be `"doc"`.
 
-{% include infobox_tail.html type="info" title="Slightly Better-than Defaults" %}
+{% include infobox_tail.html %}
 
 <a name="l10-Together"></a>Putting it Together
 ==============================================
