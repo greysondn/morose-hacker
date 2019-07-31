@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Tutorial
-permalink: /python/
+permalink: /py/
 ---
 
 The Python tutorial for this entire thing.
@@ -22,7 +22,7 @@ The Basics
 ~~[06: Random Numbers](#muismu)~~  
 ~~[07: Tuples and Lists](#muismu)~~  
 ~~[08: Loops](#muismu)~~  
-~~[09: Functions](#muismu)~~  
+[09: Functions]({{ site.url }}/py/l09)
 ~~[10: Standard Doc Comments](#muismu)~~  
 ~~[11: Recursion](#muismu)~~  
 ~~[12: Modules and Libraries](#muismu)~~  
