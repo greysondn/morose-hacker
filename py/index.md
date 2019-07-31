@@ -22,8 +22,8 @@ The Basics
 ~~[06: Random Numbers](#muismu)~~  
 ~~[07: Tuples and Lists](#muismu)~~  
 ~~[08: Loops](#muismu)~~  
-[09: Functions]({{ site.url }}/py/l09)
-~~[10: Standard Doc Comments](#muismu)~~  
+[09: Functions]({{ site.url }}/py/l09)  
+[10: Standard Doc Comments]({{ site.url }}/py/l10)  
 ~~[11: Recursion](#muismu)~~  
 ~~[12: Modules and Libraries](#muismu)~~  
 ~~[12: Scope, Reference, and Mutability](#muismu)~~  
@@ -60,8 +60,8 @@ Goodbye
 
 Problems
 --------
-~~[07: Cipher](#muismu)~~  
-~~[08: Hangman](#muismu)~~  
+[07: Cipher]({{ site.url }}/py/p07)  
+[08: Hangman]({{ site.url }}/py/p08)  
 ~~[09: Ackerman, the Devil](#muismu)~~  
 ~~[10: Librarian's Salvage](#muismu)~~  
 ~~[11: Mancala](#muismu)~~  
