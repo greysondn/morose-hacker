@@ -80,6 +80,7 @@ Problems
 Extras
 ------
 [01: Cram Session]({{ site.url }}/py/x01)  
+[02: Cows and Bulls]({{ site.url }}/py/x02) 
 
 Problems I should try to fit in
 -------------------------------
