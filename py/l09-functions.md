@@ -10,8 +10,8 @@ In today's lesson, you'll learn one of the main ways to code your way out of a p
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
 
-<a name="l09-functions"></a>Lesson 9:Functions
-==============================================
+<a name="l09-functions"></a>Lesson 9: Functions
+===============================================
 Up to this point, if you wanted to reuse code, the only way to do so was to copy and paste it. Well...
 
 {% include infobox_head.html type="caution" title="Anti-Pattern: Copy and Paste Coding" %}
@@ -28,7 +28,7 @@ Instead of doing this inefficient and wasteful way about it, we have many ways t
 <a name="l09-syntax"></a>Syntax
 ===============================
 
-functions are comparable, but they have a new format:
+Functions have a new format:
 
 {% highlight python %}
 def name(arguments):
