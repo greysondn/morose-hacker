@@ -25,12 +25,11 @@ The Basics
 [09: Functions]({{ site.url }}/py/l09)  
 [10: Standard Doc Comments]({{ site.url }}/py/l10)  
 ~~[11: Recursion](#muismu)~~  
-~~[12: Modules and Libraries](#muismu)~~  
-~~[12: Scope, Reference, and Mutability](#muismu)~~  
+[12: Modules and Packages]({{ site.url }}/py/l12 }})  
+~~[13: Scope, Reference, and Mutability](#muismu)~~  
 
 Intermission  
-~~[13: Why not Python?](#muismu)~~  
-~~[14: When? Which? Why Python?](#muismu)~~  
+~~[14: Why Not to Use Python?](#muismu)~~   
 
 Object Orientation    
 ~~[14: Class](#muismu)~~  
@@ -62,8 +61,6 @@ Problems
 --------
 [07: Cipher]({{ site.url }}/py/p07)  
 [08: Hangman]({{ site.url }}/py/p08)  
-~~[09: Ackerman, the Devil](#muismu)~~  
-~~[10: Librarian's Salvage](#muismu)~~  
 ~~[11: Mancala](#muismu)~~  
 ~~[12: A Game of Cards](#muismu)~~
 
