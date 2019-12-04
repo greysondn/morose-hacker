@@ -26,7 +26,7 @@ The Basics
 [10: Standard Doc Comments]({{ site.url }}/py/l10)  
 ~~[11: Recursion](#muismu)~~  
 [12: Modules and Packages]({{ site.url }}/py/l12)  
-~~[13: Scope, Reference, and Mutability](#muismu)~~  
+[13: Scope, Reference, and Mutability]({{ site.url }}/py/l13)  
 
 Intermission  
 ~~[14: Why Not to Use Python?](#muismu)~~   
