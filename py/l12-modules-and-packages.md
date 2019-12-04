@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python 12 - Modules and Libraries
+title: Python 12 - Modules and Packages
 permalink: /py/l12
 ---
 
@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
 At this point, you should be able to tell me what the two function declarations do clearly.
 
-However - althought you can likely articulate that line 1 imports `randrange` from the `random` module, it's a phrase said with no tangible comprehension of what that means. A module seems like this magical place that code is stored with no real meaning behind the phrase.
+However - although you can likely articulate that line 1 imports `randrange` from the `random` module, it's a phrase said with no tangible comprehension of what that means. A module seems like this magical place that code is stored with no real meaning behind the phrase.
 
 And likewise, with lines 9 and 10 - perhaps you know that it's a python main guard, but you don't know any case where it's actually useful, only that it's something that's been drilled into you to make use of. An explanation was given, likely in passing, if I'm doing my job properly, but no concrete explanation was given for what goes on here.
 
@@ -52,7 +52,7 @@ This model for understanding compiled languages is incomplete and simple, and gl
 In interpreted languages, the *source code* (which many people call a *script*, whether or not it's correct) is translated into commands for the computer and ran directly. The interpreter maintains a *context*, where it loads any additional *source files* requested by the *source code*, and then executes the *source code* in that *context*.
 
 
-{% include photoplasty.html img="/py/l12/02-interpreted-model.png" caption="A visual of this basic model of intpreted languages" %}
+{% include photoplasty.html img="/py/l12/02-interpreted-model.png" caption="A visual of this basic model of interpreted languages" %}
 
 Like before, this is a very glossy, simple model for how such languages work.
 
