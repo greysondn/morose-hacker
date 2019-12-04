@@ -181,6 +181,8 @@ There are better uses, but this is an illustrative case of closures. It is a lan
 In the list of things that won't be taught in these lessons are the [lambda calculus][wp-lambda-calculus] (which is the most natural use for closures) and the `lambda` keyword (which creates a closure on the spot).
 {% include infobox_tail.html %}
 
+&nbsp;
+
 {% include infobox_head.html type="info" title="Lambda and the Church-Turing Thesis" %}
 One of the most important questions to the history of computing is "What can we compute?" This question was answered by two men almost simultaneously, in two different ways.
 
