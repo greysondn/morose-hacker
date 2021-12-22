@@ -280,76 +280,7 @@ So, yeah.
 <a name="muismu"></a>Lesson 08: Loops
 =====================================
 
-There are only 2 loops in python: `while` and `for`.
-
-`while` is about what you'd expect:
-
-{% highlight python %}
-while condition:
-    pass
-{% endhighlight %}
-
-`for` is more interesting. `for` is an iterator in python - it goes over a list of values (or, rather, an iterable of values).
-
-Before we touch on this, just know that `range()` is a function that generates an iterable of values based on integer inputs; with just one input it will generate values from 0 to `input - 1`; if it has two inputs it generates from `input1` to `input2 - 1` if memory serves.
-
-***You do not need to generate a range to iterate over a list, tuple, or any other sequence data type.***
-
-Let's look at outputting the contents of a list:
-
-{% highlight python %}
-for x in [5, 10, 15, 20, 25]:
-    print(str(x))
-{% endhighlight %}
-
-What does that look like, ran in the interpreter?
-
-{% highlight text %}
->>> for x in [5, 10, 15, 20, 25]:
-...     print(str(x))
-...
-5
-10
-15
-20
-25
-{% endhighlight %}
-
-You can see it iterates over the values, not the indexes.
-
-Range isn't useless, but it basically just generates a list, which for then generates
-
-{% highlight text %}
->>> for i in range(5):
-...     print(str(i))
-...
-0
-1
-2
-3
-4
->>> for i in range(3, 5):
-...     print(str(i))
-...
-3
-4
-{% endhighlight %}
-
-Sure, you could manually iterate over the indexes of the list, but why torture yourself? Compare this to the above...
-
-{% highlight text %}
->>> l = [5, 10, 15, 20, 25]
->>> for x in range(len(l)):
-...     print(str(l[x]))
-...
-5
-10
-15
-20
-25
-{% endhighlight %}
-
-As you might guess, the preferred syntax is the one higher up the page in Python.
+This is now been pulled out to its own lesson. Here: [07 - Loops]({{ site.url }}/py/l07)
 
 <a name="muismu"></a>Problem ??: Higher or Lower
 ================================================

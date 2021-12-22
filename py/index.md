@@ -19,8 +19,8 @@ The Basics
 ~~[03: Types and Maths](#muismu)~~  
 ~~[04: If, Elif, Else, and Truth Tables](#muismu)~~  
 ~~[05: Keyboard Input](#muismu)~~  
-[06: Random Numbers](/py/l06)  
-~~[07: Loops](#muismu)~~  
+[06: Random Numbers]({{ site.url }}/py/l06)  
+[07: Loops]({{ site.url }}/py/l07)  
 ~~[08: Tuples and Lists](#muismu)~~  
 [09: Functions]({{ site.url }}/py/l09)  
 [10: Standard Doc Comments]({{ site.url }}/py/l10)  
@@ -59,6 +59,7 @@ Goodbye
 
 Problems
 --------
+[06: High or Low]({{ site.url }}/py/p06)  
 [07: Cipher]({{ site.url }}/py/p07)  
 [08: Hangman]({{ site.url }}/py/p08)  
 ~~[11: Mancala](#muismu)~~  
@@ -69,7 +70,6 @@ Problems
 ~~3-ish: Welcome Back, User!~~  
 ~~4-ish: Full Circle~~  
 ~~5-ish: COPPA Check~~  
-~~6-ish: High or Low~~  
 ~~13-ish: Tic Tac Toe~~  
 ~~25-ish: Cocktail Sort~~  
 ~~28-ish: Solving a Maze~~  
