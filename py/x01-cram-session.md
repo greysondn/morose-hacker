@@ -4,6 +4,12 @@ title: Python Extra 01 - Cram Session!
 permalink: /py/x01
 ---
 
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
+
 This lesson slams together all of what should be lessons  2 through 8 into one rapid lesson meant for me to improvise on the spot.
 
 This is more to provide visual aids for things that don't come through well in spoken words than anything else.

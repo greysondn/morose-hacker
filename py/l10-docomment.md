@@ -4,13 +4,19 @@ title: Python 10 - Standard Doc Comments
 permalink: /py/l10
 ---
 
-Now for the part where you learn to start hating me if you haven't learned already - the most boring part of any job.
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
 
-Documentation.
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+Now for the part where you learn to start hating me if you haven't learned already - the most boring part of any job.
+
+Documentation.
 
 <a name="l10-sdc"></a>Lesson 10: Standard Doc Comments
 ======================================================

@@ -4,6 +4,12 @@ title: Python 01 - REPL and Hello World!
 permalink: /py/l01
 ---
 
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
+
 I feel like you're talking in a language I don't speak - and you're talking it to me.
 
 <a name="l01-repl"></a>Lesson 01: REPL and Hello World!

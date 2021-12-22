@@ -9,12 +9,17 @@
  *
  *
  * Changes:
+ * .highlight - was changed to give a border and a little spacing away from the border to help readability.
  * .highlight .c1  - was unreadable to students, changed it on request.
  * .highlight .c   - was unreadable to students, changed on request.
  * .highlight .cm  - was unreadable to students, changed on request
+ * .highlight .kn  - was changed to help readability.
+ * .highlight .nb  - was changed to help readability.
+ * .highlight .s   - was changed to help readability.
+ * 
  */
 .highlight .hll { background-color: #222222 }
-.highlight  { background: #000000; color: #cccccc }
+.highlight { background: #000000; color: #cccccc; border-color: #50504F; border-style: solid; border-width: 1px; padding: 5px; }
 .highlight .c { color: #80BF80 } /* Comment */
 .highlight .err { color: #cccccc; border: 1px solid #FF0000 } /* Error */
 .highlight .esc { color: #cccccc } /* Escape */
@@ -43,15 +48,15 @@
 .highlight .gt { color: #0044DD } /* Generic.Traceback */
 .highlight .kc { color: #cdcd00 } /* Keyword.Constant */
 .highlight .kd { color: #00cd00 } /* Keyword.Declaration */
-.highlight .kn { color: #cd00cd } /* Keyword.Namespace */
+.highlight .kn { color: #ec98ec } /* Keyword.Namespace */
 .highlight .kp { color: #cdcd00 } /* Keyword.Pseudo */
 .highlight .kr { color: #cdcd00 } /* Keyword.Reserved */
 .highlight .kt { color: #00cd00 } /* Keyword.Type */
 .highlight .ld { color: #cccccc } /* Literal.Date */
 .highlight .m { color: #cd00cd } /* Literal.Number */
-.highlight .s { color: #cd0000 } /* Literal.String */
+.highlight .s { color: #e86d6d } /* Literal.String */
 .highlight .na { color: #cccccc } /* Name.Attribute */
-.highlight .nb { color: #cd00cd } /* Name.Builtin */
+.highlight .nb { color: #f278f2 } /* Name.Builtin */
 .highlight .nc { color: #00cdcd } /* Name.Class */
 .highlight .no { color: #cccccc } /* Name.Constant */
 .highlight .nd { color: #cccccc } /* Name.Decorator */
@@ -103,6 +108,6 @@
     padding-right: 3px;
     padding-left: 3px;
     background-color: #1E1E1E;
-    color: #008000;
+    color: #31bf31;
     margin-right: 3px;
 }

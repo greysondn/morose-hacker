@@ -4,11 +4,17 @@ title: Python 13 - Scope, Reference, and Mutability
 permalink: /py/l13
 ---
 
-Sometimes, all you need is a constant reference to make life not suck quite so hard. Or perhaps I meant a static variable. Oh well.
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+Sometimes, all you need is a constant reference to make life not suck quite so hard. Or perhaps I meant a static variable. Oh well.
 
 <a name="l13-srm"></a>Lesson 13: Scope, Reference, and Mutability
 ======================================================

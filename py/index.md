@@ -20,8 +20,8 @@ The Basics
 ~~[04: If, Elif, Else, and Truth Tables](#muismu)~~  
 ~~[05: Keyboard Input](#muismu)~~  
 ~~[06: Random Numbers](#muismu)~~  
-~~[07: Tuples and Lists](#muismu)~~  
-~~[08: Loops](#muismu)~~  
+~~[07: Loops](#muismu)~~  
+~~[08: Tuples and Lists](#muismu)~~  
 [09: Functions]({{ site.url }}/py/l09)  
 [10: Standard Doc Comments]({{ site.url }}/py/l10)  
 ~~[11: Recursion](#muismu)~~  

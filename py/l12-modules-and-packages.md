@@ -4,13 +4,19 @@ title: Python 12 - Modules and Packages
 permalink: /py/l12
 ---
 
-Now for the part where life sucks less and you can start to make use of all the work you've done already instead of redoing it over and over again.
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
 
-Of course we mean the part of libraries.
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+Now for the part where life sucks less and you can start to make use of all the work you've done already instead of redoing it over and over again.
+
+Of course we mean the part of libraries.
 
 <a name="l12-hl"></a>Lesson 12: Modules and Packages
 =====================================================

@@ -4,11 +4,17 @@ title: Python 09 - Functions
 permalink: /py/l09
 ---
 
-In today's lesson, you'll learn one of the main ways to code your way out of a paper bag. It is, of course, `exitPaperBag(oneself)`.
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+In today's lesson, you'll learn one of the main ways to code your way out of a paper bag. It is, of course, `exitPaperBag(oneself)`.
 
 <a name="l09-functions"></a>Lesson 9: Functions
 ===============================================

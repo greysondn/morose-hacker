@@ -4,11 +4,17 @@ title: Python Problem 08 - Hangman
 permalink: /py/p08
 ---
 
-I'd like to hang with you and all, but this guy keeps guessing what's on my mind.
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+I'd like to hang with you and all, but this guy keeps guessing what's on my mind.
 
 <a name="p08-hangman"></a>Problem 08: Hangman
 =============================================

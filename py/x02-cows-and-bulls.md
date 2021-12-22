@@ -4,6 +4,12 @@ title: Python Extra 02 - Cows and Bulls
 permalink: /py/x02
 ---
 
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
+
 I don't have anything clever for this one. I should fix that.
 
 <a name="x02-cows-and-bulls"></a>Extra 02: Cows and Bulls

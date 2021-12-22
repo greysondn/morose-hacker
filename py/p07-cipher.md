@@ -4,12 +4,18 @@ title: Python Problem 07 - Cipher
 permalink: /py/p07
 ---
 
-Va gur jbeqf bs [gur zragbe](http://phrack.org/issues/7/3.html): "Lbh znl fgbc guvf vaqvivqhny,
-ohg lbh pna'g fgbc hf nyy... nsgre nyy, jr'er nyy nyvxr."
+{% include infobox_head.html type="caution" title="The Ravages of Time" %}
+This lesson was written before the inclusion of type hints as a core Python language feature, and therefore may include code and advice absent it.
+
+My position on type hints is that they're great, use them! However, a text older than that should be expected to not know them.
+{% include infobox_tail.html %}
 
 {% include infobox_head.html type="caution" title="Writing in Progress" %}
 This lesson was rapidly adapted via copy+paste and patchwork from the related C++ lesson. As a side effect, some things may have been missed or may still refer to their C++ counterparts.
 {% include infobox_tail.html %}
+
+Va gur jbeqf bs [gur zragbe](http://phrack.org/issues/7/3.html): "Lbh znl fgbc guvf vaqvivqhny,
+ohg lbh pna'g fgbc hf nyy... nsgre nyy, jr'er nyy nyvxr."
 
 <a name="p07-cipher"></a>Problem 07:Cipher
 ==========================================
