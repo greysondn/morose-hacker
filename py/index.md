@@ -19,7 +19,7 @@ The Basics
 ~~[03: Types and Maths](#muismu)~~  
 ~~[04: If, Elif, Else, and Truth Tables](#muismu)~~  
 ~~[05: Keyboard Input](#muismu)~~  
-~~[06: Random Numbers](#muismu)~~  
+[06: Random Numbers](/py/l06)  
 ~~[07: Loops](#muismu)~~  
 ~~[08: Tuples and Lists](#muismu)~~  
 [09: Functions]({{ site.url }}/py/l09)  

@@ -234,23 +234,8 @@ Type coercion functions you probably care about are...
 
 <a name="muismu"></a>Lesson 06: Random Numbers
 ==============================================
-You're waiting for this to get hard, right?
 
-We have to import a module this time. There are a few options, but really you only need one function to generate integers. So let's just import that one function.
-
-{% highlight python linenos %}
-from random import randrange
-
-def main():
-    # if you pass one argument, the lower bound is assumed to be 0
-    roll = randrange(1, 6) 
-    print: "1d6 : {roll}"
-
-if __name__ == "__main__":
-    main()
-{% endhighlight %}
-
-Yes, it's really that easy.
+This is now been pulled out to its own lesson. Here: [06 - Random Numbers]({{ site.url }}/py/l06)
 
 <a name="muismu"></a>Lesson 07: Lists and Tuples
 ================================================
